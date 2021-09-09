@@ -1,0 +1,13 @@
+#IDEA
+.idea
+*.iws
+*.iml
+
+#Project
+build
+out
+
+#Gradle
+gradlew
+gradlew.bat
+.gradle
